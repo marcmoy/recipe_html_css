@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h1 {
+    font-size: 38px;
+}
+
+ul.ingredients-list {
+    list-style: square;
+}
+
+ul {
+    list-style: circle;
+}
+
+header > img {
+    width: 100px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: inherit;
+}
+
+html {
+    background-color: azure;
+}
+
+
+div#_review {
+    font-size: medium;
+    color: red;
+    background: yellow;
+}
